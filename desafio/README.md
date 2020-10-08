@@ -8,7 +8,7 @@ Aprender os conceitos de POST e DELETE, integrantes dos métodos HTTP.
 
 ## Ferramentas
 - Node.js
--- expressjs
--- nodemon
--- cors
+- expressjs
+- nodemon
+- cors
 - npm
